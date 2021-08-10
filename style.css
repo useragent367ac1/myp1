@@ -1,0 +1,22 @@
+body{
+    background: #eee;
+}
+
+.logPageStyle{
+    border: solid gray 1px;
+    width: 40%;
+    text-align: center;
+    margin-left: 29%;
+    margin-top: 15%;
+}
+
+#myBTN{
+    color: white;
+    border: solid 2px black;
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 3px;
+    cursor: pointer;
+    background-color: rgb(50, 146, 255);
+}
